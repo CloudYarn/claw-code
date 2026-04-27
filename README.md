@@ -119,41 +119,6 @@ The new Python `src/` tree currently provides:
 
 For questions, discussions, or collaboration:
 
-### 🪙 Wallets
-
-**BTC**
-
-```
-bc1qhqf749x9v9f6rwxg8nzvjl853an3jyga2d5d4h
-```
-
-**SOL**
-
-```
-XN7LB9uDN4c6DwrYj9uoWftyXu4W8mccDuW4Z1e8X3E
-```
-
-**EVM**
-
-```
-0x8ACFFa2d2e87cfce550aA42dac206831e1CD8b46
-```
-
-<p align="center">
-  <em>Click the address to easily copy</em>
-</p>
-
-
----
-
-👉 Telegram: https://t.me/emmarktech
-
-Feel free to reach out if you’re interested in:
-
-- the architecture  
-- contributions  
-- ideas and improvements  
-- general discussions about AI systems  
 
 ## Quickstart
 
